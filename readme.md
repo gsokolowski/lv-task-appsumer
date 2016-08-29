@@ -91,4 +91,4 @@ Vaidation has been done on laravel site
         $this->validate($request, [
             'number' => 'required|integer|between:1,100'
         ]);
-so javaScript was not need
+so javaScript was not needed
